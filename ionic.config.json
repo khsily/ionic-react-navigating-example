@@ -1,0 +1,7 @@
+{
+  "name": "sogong-client",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
